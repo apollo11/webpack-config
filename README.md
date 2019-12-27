@@ -1,2 +1,8 @@
-# webpack-config
-This is a sample configuration using
+##WebPack configuration 
+
+Sample webpack configuration fo development and production.
+- Minify
+- Uglify
+- JS loader
+- CSS loader
+- Vue Loader
